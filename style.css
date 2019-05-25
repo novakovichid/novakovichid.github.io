@@ -1,0 +1,19 @@
+.div{
+    width: 600px;
+    height: 300px;
+    transition: 1s;
+    transition-timing-function:ease-in;
+    background-size: contain;
+    position: absolute;
+}
+
+div:hover{
+    left: 300px;
+    top: 150px;
+}
+
+img{
+    position:relative;
+    padding-top: 20px;
+    width: 150px;
+}
